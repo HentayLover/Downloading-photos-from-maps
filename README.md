@@ -17,3 +17,6 @@ A script for downloading a given area from the Openaerialmap map, as well as dow
 ![image](https://github.com/user-attachments/assets/93c3c574-8357-4cde-a6c9-3dabefa8ff76)
 
 Был больше чем зум,указанный в коде,иначе скрипт ничего не выведет
+
+# Комментрай
+На данный момент скрипт выкачает не именно выделенную область, а небольшую область вокруг координаты, расположенной по центре экрана, на момент копирования ссылку
