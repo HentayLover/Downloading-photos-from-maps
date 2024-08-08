@@ -9,7 +9,7 @@ A script for downloading a given area from the Openaerialmap map, as well as dow
 Она должна содержать в себе слово square.
 Далее запустите скрипт со своей ссылкой
 
-#Запуск Скрипта
+# Запуск Скрипта
 Для запуска скрипта вставть ссылку вместо url
 ![image](https://github.com/user-attachments/assets/30068a3f-f436-4ea1-a936-57313c2cb74f)
 
